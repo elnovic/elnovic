@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github-banner.svg" width="100%" alt="Elnovic NTEDIKA — AI Engineer banner" />
+</p>
+
 <!-- GitHub profile README | https://github.com/elnovic -->
 
 <div align="center">
