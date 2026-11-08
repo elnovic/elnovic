@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/github-banner.svg" alt="Elnovic — AI Engineering, Agentic AI and Machine Learning" width="100%" />
+
 # ELNOVIC NTEDIKA
 
 ### AI ENGINEER · MACHINE LEARNING · AGENTIC AI
